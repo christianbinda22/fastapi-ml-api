@@ -5,7 +5,7 @@ API desenvolvida com **FastAPI**, **SQLAlchemy** e **MySQL**, seguindo boas prá
 ---
 
 ## 🚀 Tecnologias
-- Python 3.x
+- Python 3.14
 - FastAPI
 - SQLAlchemy
 - MySQL
@@ -16,7 +16,7 @@ API desenvolvida com **FastAPI**, **SQLAlchemy** e **MySQL**, seguindo boas prá
 ---
 
 ## 📂 Estrutura do Projeto
-```bash
+
 app/
 ├── main.py
 ├── database/
