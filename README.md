@@ -1,8 +1,8 @@
-# 🚀 FastAPI ML API
+ FastAPI ML API
 
 API backend desenvolvida com FastAPI, SQLAlchemy e MySQL, seguindo boas práticas de arquitetura para aplicações reais de mercado.
 
-## 📌 Tecnologias
+Tecnologias
 - Python 3.11+
 - FastAPI
 - SQLAlchemy
@@ -11,7 +11,7 @@ API backend desenvolvida com FastAPI, SQLAlchemy e MySQL, seguindo boas prática
 - Pydantic
 - Docker (em breve)
 
-## 🧱 Arquitetura
+ Arquitetura
 bash
 app/
  ├── main.py
